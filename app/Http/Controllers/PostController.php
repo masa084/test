@@ -9,6 +9,6 @@ class PostController extends Controller
 {
     public function index(Post $post)
     {
-         return $post->get();
+         eturn $post->get();
     }
 ｝
